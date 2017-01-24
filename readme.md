@@ -10,4 +10,4 @@ To check whether your CSS validates, the instructors will be using this site:
 
 https://jigsaw.w3.org/css-validator/#validate_by_input
 
-You will notice that certain characters do not render properly. For example, this appears in the header: `RÃ©sumÃ©`. You need to fix this. Start by Googling "strange HTML characters".
+You will notice rtain characters do not render properly. For example, this appears in the header: `RÃ©sumÃ©`. You need to fix this. Start by Googling "strange HTML characters".
